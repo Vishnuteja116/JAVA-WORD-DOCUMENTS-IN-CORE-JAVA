@@ -1,0 +1,27 @@
+Account
+accId,balance
+abstract boolean deposit(double);
+abstract boolean withdraw(double);
+final double checkBalance
+
+SavingAccount
+static minBalance
+deposit
+withdraw
+static boolean modifyMinBalance(double)
+
+final SalaryAccount
+final static minBalance
+accId,Balance,minBalance
+deposit
+withdraw
+
+
+CurrentAccount
+static minBalance
+accId,Balance,minBalance
+deposit
+withdraw
+static boolean modifyMinBalance(double)
+
+AccountMain
